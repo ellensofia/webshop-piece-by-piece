@@ -1,6 +1,6 @@
 # Piece by piece
 
-A webshop for puzzles with a user and admin interface. View project [here]([https://pixelperfectinnovations.netlify.app/](https://main--piece-by-piece.netlify.app/)
+A webshop for puzzles with a user and admin interface. [View project here](https://pixelperfectinnovations.netlify.app/](https://main--piece-by-piece.netlify.app/)
 
 ## About puzzles Webshop
 
