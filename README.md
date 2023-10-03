@@ -1,7 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/h5FXkH4A)
 # Piece by piece
 
-A webshop for puzzles with a user and admin interface.
+A webshop for puzzles with a user and admin interface. View project [here]([https://pixelperfectinnovations.netlify.app/](https://main--piece-by-piece.netlify.app/)
 
 ## About puzzles Webshop
 
